@@ -1,3 +1,0 @@
-Link learn of Fsoft : https://insight.fsoft.com.vn/conf/display/SAM/Protractor
-
-link protractor : https://www.protractortest.org/#/api?view=ElementFinder 
